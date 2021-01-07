@@ -11,7 +11,7 @@ class Series
         x=sc.nextInt();//to accept and store the value of x from user
     }
 
-    void sum_of_series()
+    void 
     {//function to calculate sum of the series
         double s=1.0;//initialize
         for(int i=2;i<=n;i=i+2)
